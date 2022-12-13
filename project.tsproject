@@ -1,0 +1,97 @@
+﻿[project]
+type=TurboSite 1.7 project
+olddir=C:\Users\1K-201-13\Desktop\project\
+themedirname=Defrost
+Extension=html
+pagecount=2
+blockcount=0
+SiteTitle=Fronted-разработчик
+Description=На этом сайте вы найдёте нужную информацию про Fronted-разработчик
+KeyWords=Fronted-разработчик, разработчик, сайты,
+CustomCode=0
+
+[FTP]
+Dir=/
+Passive=1
+
+[pages]
+index=Кто такой фронтенд-разработчик?
+page1=Давайте разберёмся
+page2=Как стать фронтенд разработчиком?
+
+[mainmenu]
+index=1
+page1=0
+page2=0
+
+[keys]
+Подзаголовок=Разобраться очень просто
+Подвал=Автор: Баракова Екатерина Помощники: Вишневская Кристина, Вусатая Ксения, Фахрулина Камила, Боева Мария Обращаться по вопросам на почту: Katerinaballerina23@gmail.com
+Заголовок-списка-страниц=Вы ещё не видели
+Заголовок-главного-меню=
+
+[pagemenu]
+index=1
+page1=1
+page2=1
+
+[ContactForm]
+index=0
+page1=0
+page2=0
+
+[SocialIcons]
+index=0
+page1=0
+page2=0
+
+[Comments]
+index=0
+page1=0
+page2=0
+
+[titlebold]
+index=0
+page1=0
+page2=0
+
+[OwnDescriptionCheck]
+index=0
+page1=0
+page2=0
+
+[OwnKeywordsCheck]
+index=0
+page1=0
+page2=0
+
+[OwnTitleCheck]
+index=0
+page1=0
+page2=0
+
+[OwnDescription]
+index=
+page1=
+page2=
+
+[OwnKeywords]
+index=
+page1=
+page2=
+
+[OwnTitle]
+index=
+page1=
+page2=
+
+[PageRedirURL]
+index=
+page1=
+page2=
+
+[DisplayTestResult]
+index=1
+page1=1
+page2=1
+
